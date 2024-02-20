@@ -1,6 +1,6 @@
 # "Google Cybersecurity" Professional Certificate
 
-This repository include notes and activities completed in the ["Google Cybersecurity" Professional Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none) course on coursera.
+This repository include notes and activities completed in the ["Google Cybersecurity"](https://grow.google/certificates/cybersecurity/#?modal_active=none) course on coursera.
 
 It has 8 specialization courses:
 1. Foundations in Cybersecurity
