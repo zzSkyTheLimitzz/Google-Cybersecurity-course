@@ -1,0 +1,26 @@
+===================Course 2 Wk 2.4=============================
+Scenario: Boltun Toys
+
+Objective: 
+To provide an overview of risks the Boltun Toys might experience due to current state
+of their security posture. 
+
+Tasks:
+1. Review IT manager's scope,goals and risk assessment.
+2. Perform an internal audit to complete a controls assessment and compliance checklist.
+
+Context summary:
+- Boltium Toys is a small Toys business that has a physical location in US. 
+- However, its online presence has grown, attractting both local and overseas customers.
+- IT manager want to conduct IT audit, over concern on not having solidified plan
+of action to ensure business contibuity and compliance as business grows. Believe that internal audits
+can help better secure company's infrastructure and identify & mitigrate potential risks,threats or vulnearabiliies
+to crtical assets. Also, interested in ensuring company comply with regulation relating to accepting online payments
+and conducting business in E.U.
+- IT manager start by implementing NIST CSF to establish an audit scope and goals (refer to the given supporting documents).
+Want to use the internal audits findings as evidence to obtain approval to expand department
+
+Given supporting documents (refer to the following uploaded files):
+- C2Wk2.4 (Task) - Botium Toys_ Audit scope and goals
+- C2Wk2.4 (Task) - Botium Toys_ Risk assessment
+
